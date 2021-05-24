@@ -10,6 +10,6 @@ Yarnk Blog 亚恩克博客
 - 后台 Springboot
 
 
-前端项目 [yarnk-blog-web](https://gitee.com/yarnk/yarnk-blog-web)
+前端项目 [yarnk-blog-web](https://gitee.com/yarnk/yarnk-blog-ui)
 
 在线预览 [www.yarnk.com](http://www.yarnk.com)
